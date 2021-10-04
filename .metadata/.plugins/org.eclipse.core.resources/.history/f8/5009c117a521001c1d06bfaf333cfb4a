@@ -1,0 +1,14 @@
+package firstclasscode;
+
+public class Marks {
+
+	public static void main(String[] args) {
+		int student=60;
+		
+			
+			
+		
+
+	}
+
+}

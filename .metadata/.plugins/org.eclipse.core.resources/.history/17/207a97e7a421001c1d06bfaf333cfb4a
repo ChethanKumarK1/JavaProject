@@ -1,0 +1,19 @@
+package firstclasscode;
+
+public class Marks {
+
+	public static void main(String[] args) {
+		int student;
+		{
+			if(student >60) {
+				System.out.println("first class")
+			}
+			else {
+				System.out.println("second class")
+			}
+			
+		}
+
+	}
+
+}
